@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/92738011?v=4" align="center" style="width: 80%" />
-</div>  
+
   
 
 ### <div align="center">I'm Anurag, soon to be a full-stack developer, currently I do frontend and almost of backend . I've also started learning python since last few days. </div>  
