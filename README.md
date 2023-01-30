@@ -27,16 +27,6 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>  
 
-<h3 align="center"> Anurag's Stats : </h3>
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats-beryl.vercel.app/api?username=akashyap25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="akashyap25" /></p>
-
-
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashyap25&](https://github-readme-stats.vercel.app/api/top-langs/?username=akashyap25&layout=compact&theme=vision-friendly-dark" alt="akashyap25" />
-
-<br> <br>
 
 
 
