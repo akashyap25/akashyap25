@@ -1,10 +1,8 @@
 
   
 
-### <div align="center">I'm Anurag, soon to be a full-stack developer, currently I do frontend and almost of backend . I've also started learning python since last few days. </div>  
+### <div align="center">I'm Anurag,  a full-stack developer, I do frontend as well as backend.. </div>  
   
-
-- 🌱 I’m currently learning Python and react.js.  
   
 
 - ❓ Ask me about anything related to web dev and related technologies  
